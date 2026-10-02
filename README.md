@@ -7,9 +7,15 @@ This project helps fill the gap between simple static hand-gesture demos and pra
 
 # Tech Stack
 Python – core programming language
+
 OpenCV – video capture and image processing
+
 MediaPipe – hand landmark detection and tracking
+
 NumPy – numerical operations
+
 Scikit-learn / PyTorch – gesture classification and adaptive ML models
+
 Streamlit / Flask / FastAPI – interface or backend integration
+
 NLTK / SymSpell – optional text correction after Morse decoding
